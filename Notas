@@ -1,0 +1,20 @@
+NOTAS:
+Missing Values: Não identificamos
+Imbalanced Dataset (target variable)
+
+
+QUESTÕES:
+1. Em que momento dividir o dataset? Como abordar a questão desbalenciamento? 
+
+JÁ FEITO:
+1. EDA 
+1.1 Importação dos dados
+1.2 Caracterização inicial dos dados (shape)
+1.3 Exploração basica + Precessamento (duplicados, colunas, descriççao das numericas, descrição das categoricas, drop de colunas univariate, verificação de missing values, exploração de unique values)
+2. Visual Exploratin 
+2.1 Target
+2.2 Categoricas
+2.3 Numericas
+2.4 Correlações
+2.5 Outliers (Age, Job Level, Monthly Income, Numb Companies Worked, Percent Salary Hike, Perfomance Rate, StockOptionLevel, TotalWorkingYears, TrainingTimesLastYear, YearsAtCompanie, YearsInCurrentRole, YearsSinceLastPromotion, YearsWithCurrManager)
+3. Data Transformation (On Hot Encoding + Normalização Min Max)
