@@ -18,3 +18,11 @@ JÁ FEITO:
 2.4 Correlações
 2.5 Outliers (Age, Job Level, Monthly Income, Numb Companies Worked, Percent Salary Hike, Perfomance Rate, StockOptionLevel, TotalWorkingYears, TrainingTimesLastYear, YearsAtCompanie, YearsInCurrentRole, YearsSinceLastPromotion, YearsWithCurrManager)
 3. Data Transformation (On Hot Encoding + Normalização Min Max)
+
+
+Organize the imports, a lot of them are repeated
+1.3 We already checked that there are no missing or duplicate values
+3.1 Os professores não são muito fãs de pie charts
+PerformanceRating > 3.8??
+Rever outliers section
+OHE não elimina a coluna para prevenir multicolinearidade
