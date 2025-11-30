@@ -29,3 +29,6 @@ OHE não elimina a coluna para prevenir multicolinearidade
 
 
 # in anaconda prompt: conda install python-graphviz - podemos tirar?
+
+
+antes de correr no treino - fazer teste no de treino e validação
