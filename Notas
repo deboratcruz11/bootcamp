@@ -26,3 +26,6 @@ Organize the imports, a lot of them are repeated
 PerformanceRating > 3.8??
 Rever outliers section
 OHE não elimina a coluna para prevenir multicolinearidade
+
+
+# in anaconda prompt: conda install python-graphviz - podemos tirar?
